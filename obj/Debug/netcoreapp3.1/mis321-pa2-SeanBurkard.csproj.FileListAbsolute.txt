@@ -1,0 +1,12 @@
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/bin/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.deps.json
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/bin/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.runtimeconfig.json
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/bin/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.runtimeconfig.dev.json
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/bin/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.dll
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/bin/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.pdb
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/obj/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.csprojAssemblyReference.cache
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/obj/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.AssemblyInfoInputs.cache
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/obj/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.AssemblyInfo.cs
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/obj/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.csproj.CoreCompileInputs.cache
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/obj/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.dll
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/obj/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.pdb
+/Users/seanyburks/Documents/MIS321/source/repos/mis321-pa2-SeanBurkard/obj/Debug/netcoreapp3.1/mis321-pa2-SeanBurkard.genruntimeconfig.cache
